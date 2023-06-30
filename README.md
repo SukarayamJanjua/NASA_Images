@@ -18,6 +18,15 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+```install dependencies
+npm install bycrypt mongodb mongoose next-auth
+```
+## Project
+It fetches NASA API Image on the day and shows on the page, enabling even SignIn and Sign out feature with Google auth
+![Screenshot 2023-06-30 143633](https://github.com/SukarayamJanjua/NASA_Images/assets/94704551/f788d033-a2f8-4e14-85bf-0e11f6fe3fbb)
+![Screenshot 2023-06-30 143710](https://github.com/SukarayamJanjua/NASA_Images/assets/94704551/c5c2dc33-502a-4616-985d-11709af341fd)
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
